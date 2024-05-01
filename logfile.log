@@ -1,0 +1,6 @@
+2024-05-01 20:37:13,780 INFO  [Log] homePageCheck()PASSED 
+2024-05-01 20:37:25,812 INFO  [Log] searchProduct()PASSED 
+2024-05-01 20:37:31,236 INFO  [Log] clickProduct()PASSED 
+2024-05-01 20:37:31,517 INFO  [Log] addToCartProduct()PASSED 
+2024-05-01 20:37:36,374 INFO  [Log] goToCart()PASSED 
+2024-05-01 20:37:36,491 INFO  [Log] clearCart()PASSED 
